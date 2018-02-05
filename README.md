@@ -17,5 +17,5 @@ Interface:
 Adaptive layout:
 
 
-![Image of Adaptive](Screenshots/Mobile.jpg)
+<center>![Image of Adaptive](Screenshots/Mobile.png = 360x641)</center>
 

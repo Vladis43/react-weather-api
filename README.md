@@ -14,9 +14,11 @@ Interface:
 
 <hr>
 
-Adaptive layout:
+
 
 <p align="center">
+	<font size="24">Adaptive layout</font>
+
 	<img src="Screenshots/Mobile.jpg" alt="Mobile">
 </p>
 

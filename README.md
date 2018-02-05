@@ -17,5 +17,5 @@ Interface:
 Adaptive layout:
 
 
-<center>![Image of Adaptive](Screenshots/Mobile.png){: heigth='641px' width='360px'}</center>
+<center>![Image of Adaptive](Screenshots/Mobile.png)</center>
 

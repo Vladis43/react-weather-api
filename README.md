@@ -1,23 +1,17 @@
-<h1>WEATHER APP</h1>
+#WEATHER APP
 
-<h3>React JS <img src="public/favicon.ico" width="32" height="32" alt="ico"></h3>
+###React JS ![GitHub Logo](public/favicon.ico)
 
-API:  - OpenWeatherMap
-      - Google Maps
+API:
+* OpenWeatherMap
+* Google Maps
 
 Interface:
-<p>
-	<img src="Screenshots/Intefrace1.jpg" alt="1">
-</p>
-
-<p>
-	<img src="Screenshots/Interface2.jpg" alt="2">
-</p>
+![Image of Interface](Screenshots/Interface1.jpg)
+![Image of Interface](Screenshots/Interface2.jpg)
 
 <hr>
 
 Adaptive layout:
-<p>
-	<img src="Screenshots/Mobile.png" alt="">
-</p>
+![Image of Adaptive](Screenshots/Mobile.png)
 

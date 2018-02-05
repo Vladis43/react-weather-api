@@ -6,9 +6,7 @@ API:
 * OpenWeatherMap
 * Google Maps
 
-<p align="center">
-	Interface
-</p>
+Interface:
 
 ![Image of Interface1](Screenshots/Interface1.jpg)
 
@@ -23,4 +21,7 @@ API:
 <p align="center">
 	<img src="Screenshots/Mobile.jpg" alt="Mobile">
 </p>
+
+<hr>
+
 

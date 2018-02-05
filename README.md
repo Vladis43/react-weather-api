@@ -16,5 +16,7 @@ Interface:
 
 Adaptive layout:
 
-->![Image of Adaptive](Screenshots/Mobile.png)<-
+<p align="center">
+	<img src="Screenshots/Mobile.jpg" alt="Mobile">
+</p>
 

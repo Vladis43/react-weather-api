@@ -6,7 +6,9 @@ API:
 * OpenWeatherMap
 * Google Maps
 
-Interface:
+<p align="center">
+	<font size="24">Interface</font>
+</p>
 
 ![Image of Interface1](Screenshots/Interface1.jpg)
 
@@ -15,7 +17,7 @@ Interface:
 <hr>
 
 <p align="center">
-	<font size="24">Adaptive layout</font>
+	<font size="48">Adaptive layout</font>
 </p>
 
 <p align="center">

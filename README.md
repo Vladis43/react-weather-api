@@ -1,6 +1,6 @@
 # WEATHER APP
 
-### React JS ![GitHub Logo](public/favicon.ico)
+### React JS
 
 API:
 * OpenWeatherMap
@@ -8,9 +8,10 @@ API:
 
 Interface:
 
-![Image of Interface](Screenshots/Interface1.jpg)
+![Image of Interface1](Screenshots/Interface1.jpg)
 
-![Image of Interface](Screenshots/Interface2.jpg)
+![Image of Interface2](Screenshots/Interface2.jpg)
+
 <hr>
 
 Adaptive layout:

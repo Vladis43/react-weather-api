@@ -1,0 +1,38 @@
+.Home {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.btn-primary {
+  margin: 1%;
+}
+
+.aside {
+  background-color: rgba(217, 217, 217, 0.6);
+  text-align: center;
+  height: inherit;
+  width: 50%;
+  left: 25%;
+  color: #000;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  position: absolute;
+  z-index: 1;
+  font-family: inherit;
+}
+
+@media screen and (max-width: 1045px) {
+  .aside {
+    position: absolute;
+    top: 10%;
+    left: 0;
+    width: 100%;
+    height: inherit;
+    border-radius: 10px;
+  }
+
+  .btn-primary {
+    width: 150px;
+  }
+}

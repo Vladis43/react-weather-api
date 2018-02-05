@@ -24,4 +24,16 @@ Interface:
 
 <hr>
 
+Used: 
+* openWeatherMap API (Current weather data)
+* Google Maps API (without search)
+* React JS
+* Bootstrap
+* React-Bootstrap
+
+Need to finalize:
+* openWeatherMap API (5 day / 3 hour forecast)
+* openWeatherMap API (Search for a given city and date)
+* Google Maps API (Search for a given city)
+
 

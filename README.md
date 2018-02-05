@@ -1,6 +1,6 @@
 <h1>WEATHER APP</h1>
 
-React JS
+<img src="public/favicon.ico" alt="">	React JS
 
 API:  - OpenWeatherMap
       - Google Maps
@@ -11,7 +11,7 @@ Interface:
 </p>
 
 <p>
-	<img src="Screenshots/Intefrace2.jpg" alt="2">
+	<img src="Screenshots/Interface2.jpg" alt="2">
 </p>
 
 Adaptive layout:

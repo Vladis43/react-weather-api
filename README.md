@@ -14,11 +14,11 @@ Interface:
 
 <hr>
 
-
-
 <p align="center">
 	<font size="24">Adaptive layout</font>
+</p>
 
+<p align="center">
 	<img src="Screenshots/Mobile.jpg" alt="Mobile">
 </p>
 

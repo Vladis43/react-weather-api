@@ -18,7 +18,7 @@ export default (props) => {
         <div className="Map">
           <Map
             zoom={12}
-            center={{ lat:47.8323527, lng:35.1252312 }}
+            center={{ lat:50.4501, lng:30.523400000000038 }}
             containerElement={ <div style={{ height: '100vh' }} /> }
             mapElement={ <div style={{ height: '100vh' }} /> }
            />

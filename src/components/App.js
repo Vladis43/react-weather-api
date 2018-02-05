@@ -4,12 +4,11 @@ import React, { Component } from 'react';
 import { Button } from "react-bootstrap";
 
 const PLACES = [
-  { name: "Kiev, UA", cityName: "Kiev", lat: '47.82', lon: '35.18' },
-  { name: "Zaporizhzhya, UA", cityName: "Zaporizhzhya", lat: '47.82', lon: '35.18'},
-  { name: "Los Angeles, US", cityName: "Los Angeles", countryCode: "us", lat: '47.82', lon: '35.18' },
-  { name: "Toronto, CA", cityName: "Toronto", countryCode: "ca", lat: '47.82', lon: '35.18' }
+  { name: "Kiev, UA", cityName: "Kiev", lat: '47.82', lng: '35.18' },
+  { name: "Zaporizhzhya, UA", cityName: "Zaporizhzhya", lat: '47.82', lng: '35.18'},
+  { name: "Los Angeles, US", cityName: "Los Angeles", countryCode: "us", lat: '47.82', lng: '35.18' },
+  { name: "Toronto, CA", cityName: "Toronto", countryCode: "ca", lat: '47.82', lng: '35.18' }
 ];
-
 
 
 class WeatherDisplay extends Component {

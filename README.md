@@ -17,5 +17,5 @@ Interface:
 Adaptive layout:
 
 
-![Image of Adaptive](Screenshots/Mobile.png)
+![Image of Adaptive](Screenshots/Mobile.jpg)
 

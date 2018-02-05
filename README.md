@@ -7,7 +7,7 @@ API:
 * Google Maps
 
 <p align="center">
-	<font size="24px">Interface</font>
+	<h4>Interface</h4>
 </p>
 
 ![Image of Interface1](Screenshots/Interface1.jpg)
@@ -17,7 +17,7 @@ API:
 <hr>
 
 <p align="center">
-	<font size="48px">Adaptive layout</font>
+	<h3>Adaptive layout</h3>
 </p>
 
 <p align="center">
